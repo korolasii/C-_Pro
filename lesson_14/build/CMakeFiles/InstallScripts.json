@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/Timofei/CXX_Pro/lesson_14/build/cmake_install.cmake",
+		"E:/Timofei/CXX_Pro/lesson_14/build/src/dynlib/cmake_install.cmake",
+		"E:/Timofei/CXX_Pro/lesson_14/build/src/main/cmake_install.cmake",
+		"E:/Timofei/CXX_Pro/lesson_14/build/src/mathlib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

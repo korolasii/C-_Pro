@@ -1,0 +1,10 @@
+^E:\TIMOFEI\CXX_PRO\LESSON_14\BUILD\CMAKEFILES\8C049977D9F504D76852CF8C14B61E93\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Timofei/CXX_Pro/lesson_14 -BE:/Timofei/CXX_Pro/lesson_14/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Timofei/CXX_Pro/lesson_14/build/MathProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

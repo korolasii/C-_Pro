@@ -1,0 +1,10 @@
+^E:\TIMOFEI\CXX_PRO\LESSON_14\SRC\MATHLIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/Timofei/CXX_Pro/lesson_14 -BE:/Timofei/CXX_Pro/lesson_14/build --check-stamp-file E:/Timofei/CXX_Pro/lesson_14/build/src/mathlib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

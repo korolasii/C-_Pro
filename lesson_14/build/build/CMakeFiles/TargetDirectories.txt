@@ -1,0 +1,5 @@
+E:/Timofei/CXX_Pro/lesson_14/build/build/CMakeFiles/ALL_BUILD.dir
+E:/Timofei/CXX_Pro/lesson_14/build/build/CMakeFiles/ZERO_CHECK.dir
+E:/Timofei/CXX_Pro/lesson_14/build/build/src/dynlib/CMakeFiles/dyn_math.dir
+E:/Timofei/CXX_Pro/lesson_14/build/build/src/main/CMakeFiles/main.dir
+E:/Timofei/CXX_Pro/lesson_14/build/build/src/mathlib/CMakeFiles/mathlib.dir
